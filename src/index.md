@@ -1011,6 +1011,7 @@ toc: false
         <div class="legend-item"><span class="legend-line" style="background-color: #4a9d01"></span>Tramway</div>
         <div class="legend-item"><span class="legend-line" style="background-color: #1f78b4"></span>Bus / Trolleybus</div>
         <div class="legend-item"><span class="legend-line" style="background-color: #ce00f8"></span>Funiculaire</div>
+        <div class="legend-item"><span class="legend-line" style="background-color: #000000"></span>Limite de Carte</div>
     `;
     return div;
     };
